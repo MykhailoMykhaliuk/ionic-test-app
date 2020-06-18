@@ -1,6 +1,8 @@
 {
   "name": "ionic-test-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "id": "e1bc1560"
 }
